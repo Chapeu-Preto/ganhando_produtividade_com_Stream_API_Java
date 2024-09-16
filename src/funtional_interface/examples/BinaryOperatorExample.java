@@ -3,7 +3,6 @@ package funtional_interface.examples;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.BinaryOperator;
-import java.util.function.DoubleBinaryOperator;
 
 public class BinaryOperatorExample {
 
